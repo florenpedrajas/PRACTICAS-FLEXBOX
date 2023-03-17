@@ -1,6 +1,6 @@
 # PRACTICAS-FLEXBOX
 PRACTICAS FLEXBOX
 Practicando Flexibox en una pagina y una galería de imagenes
-![image]
+![image]https://github.com/florenpedrajas/PRACTICAS-FLEXBOX/blob/master/practica1/asset/resultadoPractica1.png
 ![image]
 
