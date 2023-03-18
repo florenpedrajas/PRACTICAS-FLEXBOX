@@ -1,5 +1,5 @@
 
-Practicando Flexibox en una pagina y una galería de imagenes con diseño adaptado varios formatos
+Practicando Flexibox con diseño adaptado varios formatos:
 Galeria de imágenes
 Página sencilla
 Página inicio Ecommerce
