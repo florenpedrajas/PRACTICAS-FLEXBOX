@@ -1,9 +1,9 @@
 
 Practicando Flexibox con diseño adaptado varios formatos:
-Galeria de imágenes
-Página sencilla
-Página inicio Ecommerce
-Carta suscripcion
+* Galeria de imágenes
+* Página sencilla
+* Página inicio Ecommerce
+* Carta suscripcion
 
 ![image](https://github.com/florenpedrajas/PRACTICAS-FLEXBOX/blob/master/proyecto2/images/CartaSuscripcion.png)
 ![image](https://github.com/florenpedrajas/PRACTICAS-FLEXBOX/blob/master/practica1/asset/resultadoPractica1.png)
